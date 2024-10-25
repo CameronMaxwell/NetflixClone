@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+  }
+  
+  
+  .homeScreen {
+    position: relative;
+    min-height: calc(100vh - 250px);
+    overflow-x: hidden;
+    background-color: #111;
+    color: white;
+  }
