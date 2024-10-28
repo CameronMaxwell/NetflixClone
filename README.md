@@ -4,6 +4,8 @@ Overview
 
 This project is a Netflix-inspired application built using React.js to allow users to browse, search, and explore a library of movies and TV shows. Users can also view trailers and information on specific movies, thanks to API integration.
 
+Link to live site: https://netflix-clone-ec697.web.app/
+
 Features
 
 	•	Movie Library: A collection of 100+ movies and genres organized for easy browsing.
@@ -25,4 +27,5 @@ Getting Started
 	2.	Install dependencies: npm install
 	3.	Create a .env file with your API keys (movie database, YouTube API, etc.)
 	4.	Run the app: npm start
-  5.  Build for production: npm run build
+  	5.      Build for production: npm run build
+
