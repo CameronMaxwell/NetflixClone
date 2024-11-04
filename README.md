@@ -4,7 +4,7 @@ Overview
 
 This project is a Netflix-inspired application built using React.js, allowing users to browse, search, and explore a library of movies and TV shows. Users can view trailers and detailed information on specific titles through API integration.
 
-Live Site
+Live Site: https://netflix-clone-ec697.web.app/
 
 Features
 
